@@ -90,6 +90,8 @@ body {
     background: #f5f5f5;
 }
 
+
+
 /* Media query para mobile */
 @media (max-width: 600px) {
     .card {
